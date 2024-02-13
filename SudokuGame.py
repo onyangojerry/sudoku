@@ -1,6 +1,3 @@
-# Jerry Onyango
-# Assign 10
-# April 16th 2023
 
 import copy
 import time
